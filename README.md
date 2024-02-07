@@ -2,7 +2,7 @@
 
 Flight Search API is a backend application designed to facilitate flight search functionality for a flight booking application. It provides endpoints for searching flights, managing airports, and performing CRUD operations on flight data.
 
-[![My Skills](https://skillicons.dev/icons?i=java,intellijidea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea&theme=light)](https://skillicons.dev)
 
 # Introduction
 
